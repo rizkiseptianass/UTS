@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UTS_MobPro</string>
+    <string name="login_form">Login Form</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+</resources>
